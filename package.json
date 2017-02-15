@@ -1,0 +1,23 @@
+{
+  "name": "leap",
+  "version": "1.0.0",
+  "description": "An npm package for determining if a given year is a leap year",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VonCanta/leapyear.git"
+  },
+  "keywords": [
+    "leap",
+    "year"
+  ],
+  "author": "Tucker VonCanon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VonCanta/leapyear/issues"
+  },
+  "homepage": "https://github.com/VonCanta/leapyear#readme"
+}
